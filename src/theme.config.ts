@@ -2,9 +2,9 @@ export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
   title: "风中散发",
   /** your name */
-  author: "Typography",
+  author: "Fenglesanfa",
   /** website description */
-  desc: "Rediscory the beauty of typography",
+  desc: "Simply jotting down some thoughts about my mind and life.",
   /** your deployed domain */
   website: "https://astro-theme-typography.vercel.app/",
   /** your locale */
@@ -55,7 +55,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   ],
   /** your category name mapping, which the `path` will be shown in the url */
   category_map: [
-    { name: "胡适", path: "hu-shi" },
+    { name: "杂记", path: "za-ji" },
   ],
   /** your comment provider */
   comments: {
